@@ -65,5 +65,5 @@ Shri Ram Group of Institutions, Jabalpur MP - GPA: 8.0
 
 ## Contact
 
-- **Email:** [m.mobashshir2mau@gmail.com](mailto:m.mobashshir2mau@gmail.com)
+- **Email:** [mobashshir2mau@gmail.com](mailto:mobashshir2mau@gmail.com)
 - **Location:** New Delhi, India - 110025
